@@ -1,5 +1,5 @@
 // Ajusta aquí la URL de tu webhook de n8n (producción)
-const N8N_WEBHOOK = "https://supermkcg.app.n8n.cloud/webhook/capturar-operacion";
+const N8N_WEBHOOK = "https://suerick.app.n8n.cloud/webhook/capturar-operacion";
 
 const form = document.getElementById("mathForm");
 const desc = document.getElementById("description");
